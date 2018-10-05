@@ -1,0 +1,95 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navs-words {
+  color: black;
+  font-weight: bold;
+  padding-top: 17px;
+  padding-bottom: -5px;
+}
+
+ul li a{
+  height: 90px;
+}
+
+.logo img{
+  border-style: none;
+  width: 125px;
+  height: 125px;
+  margin-top: -12px;
+  margin-left: 15px;
+}
+
+nav {
+  height: 90px;
+}
+
+.nav-wrapper {
+  background-color: white;
+}
+
+.tittle {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.photo-section {
+  max-width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  height: 280px;
+}
+
+.about-img {
+  width: 100%;
+  display: block;
+  max-width: none !important;
+  height: inherit;
+}
+
+.containerbox{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.center{
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 280px;
+  opacity: 0.4;
+  height: 70px;
+  padding-top: 10px;
+}
+
+.center:hover{
+  background-color: #F2F2F2;
+  opacity: 0.8;
+}
+
+.center a{
+  color: black;
+  font-size: 30px;
+  padding-top: 20px;
+}
+
+.tour-description {
+  text-align: left;
+  margin-left: 25px;
+}
+
+.box-img{
+  width: 300px;
+  height: 190px;
+  padding: 10px;
+}
+
+#paragraph {
+  font-size: 22px;
+  text-align: center;
+}
